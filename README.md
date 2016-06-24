@@ -1,6 +1,11 @@
 # Getrate
 
-**TODO: Add description**
+## Run script:
+  # ./getrate "currency pair"
+  Example
+    # ./getrate "USDJPY"
+    
+  
 
 ## Installation
 
