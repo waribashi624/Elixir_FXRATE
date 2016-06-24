@@ -1,9 +1,9 @@
 # Getrate
 
 ## Run script
-  # ./getrate "currency pair"<br>
+  # ./getrate "currency pair"<br><br>
   Example<br>
-    # ./getrate "USDJPY"
+       # ./getrate "USDJPY"
     
   
 
